@@ -2,4 +2,4 @@
 
 ### Summary
 
-Cowork project with Coco, Ping, 文中, tinyo
+Coworking project with Coco, Ping, 文中, tinyo
